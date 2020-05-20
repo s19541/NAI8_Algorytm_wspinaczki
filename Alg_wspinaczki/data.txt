@@ -1,0 +1,11 @@
+5
+Warszawa Gdansk 350
+Warszawa Szczecin 450
+Gdansk Szczecin 150
+Krakow Wroclaw 200
+Warszawa Wroclaw 400
+Warszawa Krakow 300
+Gdansk Krakow 650
+Gdansk Wroclaw 700
+Szczecin Wroclaw 450
+Szczecin Krakow 600
